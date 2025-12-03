@@ -21,13 +21,13 @@ The notebook `ballot-map-2025` also cleans the full mayoral results and creates 
 
 The notebooks output this spreadsheet which contains:
 
-*`ballot_results_2025_only.csv`
-*`proposal_1_results_2025.csv`
-*`proposal_2_results_2025.csv`
-*`proposal_3_results_2025.csv`
-*`proposal_4_results_2025.csv`
-*`proposal_5_results_2025.csv`
-*`proposal_6_results_2025.csv`
+* `ballot_results_2025_only.csv`
+* `proposal_1_results_2025.csv`
+* `proposal_2_results_2025.csv`
+* `proposal_3_results_2025.csv`
+* `proposal_4_results_2025.csv`
+* `proposal_5_results_2025.csv`
+* `proposal_6_results_2025.csv`
 
 ## Running the Analysis Yourself
 
