@@ -8,7 +8,7 @@ This analysis uses 3 spreadsheets from the following sources
 
 *`ballot_results_github/data/full_results_2025_copy.csv`: unofficial results from the NYC Board of Elections using the boe_scraper from [THE CITY](https://github.com/thecityny/boe-scraper)
 * `ballot_results_github/data/nyed_25c_git`: NYC election district shapefiles, clipped to shoreline. You can find the most current version [here](https://www.nyc.gov/content/planning/pages/resources/datasets/election-districts)
-*`ballot_results_github/data/nyed_25c_neighborhood_name_reproj4326_git.geojson`: 2025 ed shapefile with cleaned NTA names
+* `ballot_results_github/data/nyed_25c_neighborhood_name_reproj4326_git.geojson`: 2025 ed shapefile with cleaned NTA names
 
 ## Methodology
 
