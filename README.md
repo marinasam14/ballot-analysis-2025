@@ -4,7 +4,7 @@ This repository contains data, analytic code, and findings based on scraped resu
 
 ## Data
 
-This analysis uses TK spreadsheets from the following sources
+This analysis uses 3 spreadsheets from the following sources
 
 *`ballot_results_github/data/full_results_2025_copy.csv`: unofficial results from the NYC Board of Elections using the boe_scraper from [THE CITY](https://github.com/thecityny/boe-scraper)
 * `ballot_results_github/data/nyed_25c_git`: NYC election district shapefiles, clipped to shoreline. You can find the most current version [here](https://www.nyc.gov/content/planning/pages/resources/datasets/election-districts)
