@@ -34,7 +34,7 @@ The notebooks output this spreadsheet which contains:
 You can run the analysis yourself. To do so you'll need the following installed on your computer:
 
 * Python 3
-* The Python libraries specified in `requirements.txt`.
+* The Python libraries specified in `markdown.txt`.
 
 ## Licensing
 
